@@ -1,0 +1,5 @@
+santtir.hrf SP 10.0.12.10
+santtir.hrf DD 127.0.0.1
+santtir.hrf LG /home/core/Desktop/Trabalho/file_santtir_hrf/logs.txt
+all LG /home/core/Desktop/Trabalho/all.log
+root ST /home/core/Desktop/Trabalho/file_ST/listaSTS.db

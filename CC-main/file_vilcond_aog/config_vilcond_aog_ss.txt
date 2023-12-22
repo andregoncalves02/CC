@@ -1,0 +1,5 @@
+vilcond.aog SP 10.0.12.11
+vilcond.aog DD 127.0.0.1
+vilcond.aog LG /home/core/Desktop/Trabalho/file_vilcond_aog/logs.txt
+all LG /home/core/Desktop/Trabalho/all.log
+root ST /home/core/Desktop/Trabalho/file_ST/listaSTS.db

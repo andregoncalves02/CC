@@ -1,0 +1,4 @@
+st DB /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+st LG /home/core/Desktop/Trabalho/file_ST/logs.txt
+all LG /home/core/Desktop/Trabalho/all.log
+root ST /home/core/Desktop/Trabalho/file_ST/listaSTS.db

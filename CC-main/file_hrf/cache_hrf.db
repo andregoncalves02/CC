@@ -1,0 +1,28 @@
+# DNS database file for domain hrf
+# It also includes a pointer to the primary server
+# of the smaller.example.com subdomain
+@ DEFAULT hrf.
+TTL DEFAULT 86400
+@ SOASP ns1.hrf. TTL
+@ SOAADMIN dns\.admin.hrf. TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+@ NS ns1.hrf. TTL
+@ NS ns2.hrf. TTL
+@ NS ns3.hrf. TTL
+santtir.@ NS sp.santtir.hrf. TTL
+@ MX mx1.hrf. TTL 10
+@ MX mx2.hrf. TTL 20
+ns1 A 10.2.2.1 TTL
+ns2 A 10.0.15.10 TTL
+ns3 A 10.4.4.3 TTL
+sp.santtir.hrf. A 10.0.12.10 TTL
+mx1 A 10.0.14.12 TTL
+mx2 A 10.0.13.11 TTL
+sp CNAME ns1 TTL
+ss1 CNAME ns2 TTL
+ss2 CNAME ns3 TTL
+mail1 CNAME mx1 TTL
+mail2 CNAME mx2 TTL

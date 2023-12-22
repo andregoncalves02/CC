@@ -1,0 +1,36 @@
+31:12:2022:15:14:22:14S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+31:12:2022:15:14:22:14S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+31:12:2022:15:14:41:14S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+31:12:2022:15:14:41:14S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+31:12:2022:15:16:09:16S QR 10.1.1.1
+31:12:2022:15:16:09:16S QE -1
+31:12:2022:15:19:49:19S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+31:12:2022:15:19:49:19S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+31:12:2022:15:20:05:20S QR 10.1.1.1
+31:12:2022:15:20:05:20S QE 10.1.1.1
+01:01:2023:11:52:55:52S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+01:01:2023:11:52:55:52S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+01:01:2023:11:53:17:53S QR 10.1.1.1
+01:01:2023:11:53:17:53S QE 10.1.1.1
+01:01:2023:11:54:34:54S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+01:01:2023:11:54:34:54S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+01:01:2023:11:54:36:54S QR 10.1.1.1
+01:01:2023:11:54:36:54S QE 10.1.1.1
+01:01:2023:12:01:26:01S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+01:01:2023:12:01:26:01S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+01:01:2023:12:01:30:01S QR 10.1.1.1
+01:01:2023:12:01:30:01S QE 10.1.1.1
+01:01:2023:12:03:14:03S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+01:01:2023:12:03:14:03S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+01:01:2023:12:03:17:03S QR 10.1.1.1
+01:01:2023:12:03:17:03S QE 10.1.1.1
+01:01:2023:12:04:25:04S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_reverse/config_reverse_sp.txt
+01:01:2023:12:04:25:04S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_reverse/cache_reverse.db
+01:01:2023:12:04:27:04S QR 10.1.1.1
+01:01:2023:12:04:27:04S QE 10.1.1.1
+01:01:2023:12:28:41:28S QR 10.0.12.13
+01:01:2023:12:28:41:28S QE 10.0.12.13
+01:01:2023:12:29:10:29S QR 10.0.12.13
+01:01:2023:12:29:10:29S QE 10.0.12.13
+01:01:2023:12:49:20:49S QR 10.0.12.13
+01:01:2023:12:49:20:49S QE 10.0.12.13

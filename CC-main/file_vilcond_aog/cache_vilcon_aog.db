@@ -1,0 +1,21 @@
+# DNS database file for domain vilcond.aog
+@ DEFAULT vilcond.aog.
+TTL DEFAULT 86400
+@ SOASP sp.vilcond.aog. TTL
+@ SOAADMIN dns\.admin.vilcond.aog. TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+@ NS sp.vilcond.aog. TTL
+@ NS ss1.vilcond.aog. TTL
+@ NS ss2.vilcond.aog. TTL
+@ MX mx1.vilcond.aog. TTL 10
+@ MX mx2.vilcond.aog. TTL 20
+sp A 10.0.12.11 TTL
+ss1 A 10.4.4.10 TTL
+ss2 A 10.0.15.13 TTL
+mx1 A 10.0.13.10 TTL
+mx2 A 10.0.15.14 TTL
+mail1 CNAME mx1 TTL
+mail2 CNAME mx2 TTL

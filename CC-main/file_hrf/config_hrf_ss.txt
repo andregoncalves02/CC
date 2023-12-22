@@ -1,0 +1,5 @@
+hrf SP 10.2.2.1
+hrf DD 127.0.0.1
+hrf LG /home/core/Desktop/Trabalho/file_hrf/logs.txt
+all LG /home/core/Desktop/Trabalho/all.log
+root ST /home/core/Desktop/Trabalho/file_ST/listaSTS.db

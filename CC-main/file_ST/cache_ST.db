@@ -1,0 +1,16 @@
+# DNS database file for top server
+TTL DEFAULT 86400
+st. NS st1.st. TTL
+st. NS st2.st. TTL
+reverse. NS reverse. TTL
+hrf. NS ns1.hrf. TTL
+aog. NS ns1.aog TTL
+st1.st. A 10.2.2.10 TTL
+st2.st. A 10.0.12.13 TTL
+ns1.hrf. A 10.2.2.1 TTL
+ns2.hrf. A 10.0.15.10 TTL
+ns3.hrf. A 10.4.4.3 TTL
+ns1.aog. A 10.0.15.11 TTL
+ns2.aog. A 10.2.2.2 TTL
+ns3.aog. A 10.0.14.10 TTL
+reverse. A 10.0.12.12 TTL

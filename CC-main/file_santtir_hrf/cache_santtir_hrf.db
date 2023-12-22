@@ -1,0 +1,21 @@
+# DNS database file for domain santtir.hrf
+@ DEFAULT santtir.hrf.
+TTL DEFAULT 86400
+@ SOASP sp.santtir.hrf. TTL
+@ SOAADMIN dns\.admin.santtir.hrf. TTL
+@ SOASERIAL 0117102022 TTL
+@ SOAREFRESH 14400 TTL
+@ SOARETRY 3600 TTL
+@ SOAEXPIRE 604800 TTL
+@ NS sp.santtir.hrf. TTL
+@ NS ss1.santtir.hrf. TTL
+@ NS ss2.santtir.hrf. TTL
+@ MX mx1.santtir.hrf. TTL 10
+@ MX mx2.santtir.hrf. TTL 20
+sp A 10.0.12.10 TTL
+ss1 A 10.0.15.12 TTL
+ss2 A 10.4.4.2 TTL
+mx1 A 10.0.14.11 TTL
+mx2 A 10.0.13.12 TTL
+mail1 CNAME mx1 TTL
+mail2 CNAME mx2 TTL

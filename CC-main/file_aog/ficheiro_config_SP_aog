@@ -1,0 +1,8 @@
+#Ficheiro de configuração para o servidor primário do domínio aog
+aog DB /home/core/Desktop/Trabalho/file_aog/cache_aog.db
+aog SS 10.2.2.2
+aog SS 10.0.14.10
+aog DD 127.0.0.1
+aog LG /home/core/Desktop/Trabalho/file_aog/logs.txt
+all LG /home/core/Desktop/Trabalho/all.log
+root ST /home/core/Desktop/Trabalho/file_ST/listaSTS.db

@@ -1,0 +1,160 @@
+21:12:2022:11:14:48:14S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:11:14:48:14S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:15:48:06:48S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:15:48:06:48S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:15:48:32:48S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:15:48:32:48S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:15:50:55:50S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:15:50:55:50S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:15:51:17:51S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:15:51:17:51S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:15:51:57:51S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:15:51:57:51S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:15:52:40:52S QR 10.1.1.1
+21:12:2022:15:57:22:57S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:15:57:22:57S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:15:57:47:57S QR 10.1.1.1
+21:12:2022:16:01:27:01S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:16:01:27:01S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:16:01:57:01S QR 10.1.1.1
+21:12:2022:16:23:58:23S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:16:23:58:23S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:16:24:24:24S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:16:24:24:24S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:16:24:43:24S QR 10.1.1.1
+21:12:2022:17:00:56:00S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:17:00:56:00S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:17:01:00:01S  EV @ conf-file-read/home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+21:12:2022:17:01:00:01S  EV @ bd-file-read/home/core/Desktop/Trabalho/file_ST/cache_ST.db
+21:12:2022:17:01:25:01S QR 10.1.1.1
+21:12:2022:17:09:04:09S QR 10.1.1.1
+21:12:2022:19:51:55:51S QR 10.1.1.1
+30:12:2022:21:15:15:15S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+30:12:2022:21:17:18:17S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+30:12:2022:21:17:29:17S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+30:12:2022:21:18:26:18S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+30:12:2022:21:18:26:18S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+30:12:2022:21:59:40:59S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+30:12:2022:21:59:40:59S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+30:12:2022:21:59:59:59S QR 10.1.1.1
+30:12:2022:22:02:35:02S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+30:12:2022:22:02:35:02S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+30:12:2022:22:02:39:02S QR 10.1.1.1
+30:12:2022:22:04:52:04S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+30:12:2022:22:04:52:04S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+30:12:2022:22:04:56:04S QR 10.1.1.1
+31:12:2022:00:27:04:27S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+31:12:2022:00:27:04:27S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+31:12:2022:00:32:29:32S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+31:12:2022:00:32:29:32S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+31:12:2022:00:38:50:38S QR 10.2.2.3
+31:12:2022:00:40:07:40S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+31:12:2022:00:40:07:40S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+31:12:2022:00:40:11:40S QR 10.2.2.3
+31:12:2022:00:40:11:40S QE 10.2.2.1
+31:12:2022:00:44:49:44S QR 10.2.2.3
+31:12:2022:00:44:49:44S QE 10.2.2.1
+31:12:2022:00:44:49:44S QR 10.2.2.1
+31:12:2022:00:44:49:44S QE 10.2.2.3
+31:12:2022:00:45:41:45S QR 10.2.2.3
+31:12:2022:00:45:41:45S QE 10.2.2.1
+31:12:2022:00:45:41:45S QR 10.2.2.1
+31:12:2022:00:45:41:45S QE 10.2.2.3
+31:12:2022:00:46:56:46S QR 10.2.2.3
+31:12:2022:00:46:56:46S QE 10.2.2.1
+31:12:2022:00:46:56:46S QR 10.2.2.1
+31:12:2022:00:46:56:46S QE 10.2.2.3
+31:12:2022:00:49:28:49S QR 10.2.2.3
+31:12:2022:00:49:28:49S QE 10.2.2.1
+31:12:2022:00:49:28:49S QR 10.2.2.1
+31:12:2022:00:49:28:49S QE 10.2.2.3
+31:12:2022:00:50:11:50S QR 10.2.2.3
+31:12:2022:00:50:11:50S QE 10.2.2.1
+31:12:2022:00:50:11:50S QR 10.2.2.1
+31:12:2022:00:50:11:50S QE 10.2.2.3
+31:12:2022:00:53:11:53S QR 10.2.2.3
+31:12:2022:00:53:11:53S QE 10.2.2.1
+31:12:2022:00:53:11:53S QR 10.2.2.1
+31:12:2022:00:53:11:53S QE 10.2.2.3
+31:12:2022:00:53:59:53S QR 10.2.2.3
+31:12:2022:00:53:59:53S QE 10.2.2.1
+31:12:2022:00:53:59:53S QR 10.2.2.1
+31:12:2022:00:53:59:53S QE 10.2.2.3
+31:12:2022:00:54:16:54S QR 10.2.2.3
+31:12:2022:00:54:16:54S QE 10.2.2.1
+31:12:2022:00:54:16:54S QR 10.2.2.1
+31:12:2022:00:54:16:54S QE 10.2.2.3
+31:12:2022:00:55:55:55S QR 10.2.2.3
+31:12:2022:00:55:55:55S QE 10.2.2.1
+31:12:2022:00:55:55:55S QR 10.2.2.1
+31:12:2022:00:55:55:55S QE 10.2.2.3
+31:12:2022:00:57:05:57S QR 10.2.2.3
+31:12:2022:00:57:05:57S QE 10.2.2.1
+31:12:2022:00:57:05:57S QR 10.2.2.1
+31:12:2022:00:57:05:57S QE 10.2.2.3
+31:12:2022:00:59:54:59S QR 10.2.2.3
+31:12:2022:00:59:54:59S QE 10.2.2.1
+31:12:2022:00:59:54:59S QR 10.2.2.1
+31:12:2022:00:59:54:59S QE 10.2.2.3
+31:12:2022:01:00:10:00S QR 10.2.2.3
+31:12:2022:01:01:19:01S QR 10.2.2.3
+31:12:2022:01:02:30:02S QR 10.2.2.3
+31:12:2022:01:04:39:04S QR 10.2.2.3
+31:12:2022:01:07:15:07S QR 10.2.2.3
+31:12:2022:01:08:21:08S QR 10.2.2.3
+31:12:2022:01:12:55:12S QR 10.2.2.3
+31:12:2022:01:13:20:13S QR 10.2.2.3
+31:12:2022:01:15:46:15S QR 10.2.2.3
+31:12:2022:01:20:07:20S QR 10.2.2.3
+31:12:2022:14:21:37:21S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+31:12:2022:14:21:37:21S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+31:12:2022:14:22:09:22S QR 10.1.1.1
+31:12:2022:14:22:09:22S QE 10.2.2.1
+31:12:2022:14:22:09:22S QR 10.2.2.1
+31:12:2022:14:23:02:23S QR 10.2.2.3
+31:12:2022:14:23:02:23S QE 10.2.2.1
+31:12:2022:14:23:02:23S QR 10.2.2.1
+31:12:2022:14:23:12:23S QR 10.2.2.3
+31:12:2022:14:23:32:23S QR 10.2.2.3
+31:12:2022:14:27:02:27S QR 10.2.2.3
+31:12:2022:14:29:56:29S QR 10.2.2.3
+31:12:2022:14:31:29:31S QR 10.2.2.3
+31:12:2022:14:34:38:34S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+31:12:2022:14:34:38:34S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+31:12:2022:14:34:53:34S QR 10.1.1.1
+31:12:2022:14:34:53:34S QE 10.2.2.1
+31:12:2022:14:34:53:34S QR 10.2.2.1
+31:12:2022:14:36:41:36S QR 10.2.2.3
+31:12:2022:14:36:41:36S QE 10.2.2.1
+31:12:2022:14:36:41:36S QR 10.2.2.1
+31:12:2022:14:36:49:36S QR 10.2.2.3
+31:12:2022:14:37:59:37S QR 10.2.2.3
+31:12:2022:14:38:52:38S QR 10.2.2.3
+31:12:2022:15:13:17:13S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+31:12:2022:15:13:17:13S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+31:12:2022:15:19:55:19S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+31:12:2022:15:19:55:19S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+31:12:2022:15:20:31:20S QR 10.1.1.1
+31:12:2022:15:20:31:20S QE 10.2.2.3
+01:01:2023:11:53:04:53S QR 10.1.1.1
+01:01:2023:11:53:04:53S QE 10.2.2.3
+01:01:2023:12:04:45:04S QR 10.1.1.1
+01:01:2023:12:04:45:04S QE 10.2.2.3
+01:01:2023:12:27:05:27S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+01:01:2023:12:27:05:27S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+01:01:2023:12:27:13:27S QR 10.1.1.1
+01:01:2023:12:27:13:27S QE 10.2.2.3
+01:01:2023:12:28:37:28S  EV @ conf-file-read /home/core/Desktop/Trabalho/file_ST/config_ST_sp.txt
+01:01:2023:12:28:37:28S  EV @ bd-file-read /home/core/Desktop/Trabalho/file_ST/cache_ST.db
+01:01:2023:12:28:41:28S QR 10.1.1.1
+01:01:2023:12:28:41:28S QE 10.0.12.12
+01:01:2023:12:28:41:28S QR 10.0.12.12
+01:01:2023:12:28:41:28S QE 10.1.1.1
+01:01:2023:12:29:10:29S QR 10.1.1.1
+01:01:2023:12:29:10:29S QE 10.0.12.12
+01:01:2023:12:29:10:29S QR 10.0.12.12
+01:01:2023:12:29:10:29S QE 10.1.1.1
+01:01:2023:12:49:20:49S QR 10.2.2.3
+01:01:2023:12:49:20:49S QE 10.0.12.12
+01:01:2023:12:49:20:49S QR 10.0.12.12
+01:01:2023:12:49:20:49S QE 10.2.2.3

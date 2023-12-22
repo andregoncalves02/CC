@@ -1,0 +1,22 @@
+# DNS database file for reverse
+TTL DEFAULT 86400
+ns1.hrf. PTR 10.2.2.1 TTL
+ns2.hrf. PTR 10.0.15.10 TTL
+ns3.hrf. PTR 10.4.4.3 TTL   
+mx1.hrf. PTR 10.0.14.12 TTL
+mx2.hrf. PTR 10.0.13.11 TTL
+ns1.aog. PTR 10.3.3.11 TTL
+ns2.aog. PTR 10.0.14.10 TTL
+ns3.aog. PTR 10.2.2.2 TTL
+mx1.aog. PTR 10.0.14.13 TTL
+mx2.aog. PTR 10.4.4.1 TTL
+sp.vilcond.aog. PTR 10.0.12.11 TTL
+ss1.vilcond.aog. PTR 10.4.4.10 TTL 
+ss2.vilcond.aog. PTR 10.0.15.13 TTL
+mx1.vilcond.aog. PTR 10.0.13.10 TTL
+mx2.vilcond.aog. PTR 10.0.15.14 TTL
+sp.santtir.hrf. PTR 10.0.12.10 TTL
+ss1.santtir.hrf. PTR 10.0.15.12 TTL
+ss2.santtir.hrf. PTR 10.4.4.2 TTL
+mx1.santtir.hrf. PTR 10.0.14.11 TTL
+mx2.santtir.hrf. PTR 10.0.13.12 TTL

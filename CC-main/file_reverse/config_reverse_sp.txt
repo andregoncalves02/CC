@@ -1,0 +1,4 @@
+reverse DB /home/core/Desktop/Trabalho/file_reverse/cachereverse.db
+reverse LG /home/core/Desktop/Trabalho/file_reverse/logs.txt
+all LG /home/core/Desktop/Trabalho/all.log
+root ST /home/core/Desktop/Trabalho/file_ST/listaSTS.db
