@@ -46,3 +46,26 @@ Full email names, domains, servers, and hosts should end with a ".", and if they
 All non-connection-oriented interactions in this system are made using DNS messages encapsulated in the UDP protocol. A DNS message comprises a fixed-size header and a data part that should occupy up to 1 kilobyte. The interactions start with sending a DNS query to a server. This query originates from a Command-Line (CL) or any other DNS server and is carried within a DNS message.
 
 A server processes the received query by first decoding the query information. If the decoding of the query information is correct, the server attempts to find direct information that answers the query in its cache or database. In the case of the cache, if the server doesn't find a direct response to the query, it forwards the query to an SDT (Server of the Top-Level Domain) that is the server for the top-level domain included in the NAME field. This process continues recursively until the server obtains a final response. This final response can be either a response where direct information has been obtained for the query or a response indicating that from that point onward, no further information about the query is available.
+The Client comunicates with the server by sending a query. The queries, in this project, have the following format:
+- ID;
+- FLAGS;
+- RESPONDE-CODE;
+- N-VALUES;
+- N-AUTHORITIES;
+- N-EXTRA-VALUES;
+- QUERY-INFO.NAME;
+- QUERY-INFO.TYPE;
+
+For example: 3874,Q+R,0,0,0,0;example.com.,MX;
+
+The Primary Server receives this query and processes its information, responding with a query in the same format and then sending the requested information. In case the Server does not have the requested information, it still sends the response query but does not provide any further information, allowing the Client to reach a timeout.
+
+Concurrently, the Primary Server runs a TCP connection. If it receives a CHECK VERSION from a Secondary Server, it responds with the version of the database file. After this, if it receives a query with one of its domains, for example, "adororedes.com.," it first sends the number of lines in the database file and then sends each line of the file.
+
+The Secondary Server can receive requests from the Client in the same way as the Primary Server. Communication with the Primary Server was explained earlier. For now, the Protocol Data Units (PDUs) do not have binary encoding.
+
+Another form of communication present is the zone transfer, which uses a TCP connection. Typically, the Secondary Server sends messages to the Primary Server to check if its replica of the database is up to date. If it isn't, the Secondary Server sends the desired domain, and the Primary Server sends a copy of the database for that domain, line by line, to the Secondary Server, as illustrated in the following diagram.
+
+In our project, we implemented the zone transfer. However, currently, our Secondary Server does not check if its database is up-to-date. Instead, it only requests a zone transfer upon initialization by sending the domain, and the Primary Server sends a replica of its database line by line. The Secondary Server waits for the Primary Server to finish sending everything. However, the future goal is for the Secondary Server to wait for a predefined time, and if the Primary Server doesn't send everything within that time, it will attempt again after waiting for another predefined time.
+
+
