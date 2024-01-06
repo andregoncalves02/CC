@@ -1,4 +1,4 @@
-# Introdução
+# Introduction
 
 In the context of the Computer Communications course, a project was proposed aiming to implement a DNS (Domain Name System). Initially, it was crucial to comprehend DNS concepts and understand the workings of networks and communication among computers, servers, and clients. Creating a communication model that supported and fulfilled the project's requirements was essential.
 
